@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Celebrity",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-14T15:59:45.277153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Celebrity",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/01_Celebrity_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Celebrity Death Match",
+      "artist": "Teriyaki Boyz",
+      "has_synced": false,
+      "path": "select/02_Celebrity_Death_Match_Teriyaki_Boyz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Celebrity",
+      "artist": "Big Sean feat. Dwele",
+      "has_synced": true,
+      "path": "select/03_Celebrity_Big_Sean_feat._Dwele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Celebrity (feat. Dwele)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/04_Celebrity_(feat._Dwele)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Celebrity Skin",
+      "artist": "Hole",
+      "has_synced": true,
+      "path": "select/05_Celebrity_Skin_Hole.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Celebrity",
+      "artist": "*NSYNC",
+      "has_synced": false,
+      "path": "select/06_Celebrity_NSYNC.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "celebrity",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/07_celebrity_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Celebrity",
+      "artist": "Slayyyter",
+      "has_synced": true,
+      "path": "select/08_Celebrity_Slayyyter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Celebrity Killer (feat. Tion Wayne)",
+      "artist": "Sidhu Moose Wala feat. Tion Wayne",
+      "has_synced": true,
+      "path": "select/09_Celebrity_Killer_(feat._Tion_Wayne)_Sidhu_Moose_Wala_feat._Tion_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Celebrity Killer (feat. Tion Wayne)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/10_Celebrity_Killer_(feat._Tion_Wayne)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Celebrity",
+      "artist": "Lloyd Banks feat. Akon",
+      "has_synced": false,
+      "path": "select/11_Celebrity_Lloyd_Banks_feat._Akon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Celebrity (feat. Akon)",
+      "artist": "Lloyd Banks",
+      "has_synced": false,
+      "path": "select/12_Celebrity_(feat._Akon)_Lloyd_Banks.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Celebrity Skin",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/13_Celebrity_Skin_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Celebrity (feat. Dwele) (Exclusive Deluxe Track)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/14_Celebrity_(feat._Dwele)_(Exclusive_Deluxe_Track)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Celebrity Touch",
+      "artist": "Riverside",
+      "has_synced": true,
+      "path": "select/15_Celebrity_Touch_Riverside.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Chicken Song (Celebrity Mega mix)",
+      "artist": "Spitting Image",
+      "has_synced": false,
+      "path": "select/16_The_Chicken_Song_(Celebrity_Mega_mix)_Spitting_Image.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "She's a Saint Not a Celebrity",
+      "artist": "Foxboro Hot Tubs",
+      "has_synced": true,
+      "path": "select/17_She's_a_Saint_Not_a_Celebrity_Foxboro_Hot_Tubs.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Celebrity Skin",
+      "artist": "Hole",
+      "has_synced": true,
+      "path": "select/18_Celebrity_Skin_Hole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Celebrity",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Celebrity_IU.txt"
+    }
+  ]
+}
